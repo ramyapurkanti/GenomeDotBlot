@@ -1,0 +1,59 @@
+==================================================
+file name: chr4_TuH.fasta           
+sequences:             1
+total length:   62664720 bp  (62640005 bp excl N/X-runs)
+GC level:         37.44 %
+bases masked:   37568218 bp ( 59.95 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        24291     11571081 bp   18.47 %
+   SINEs:             2713       575164 bp    0.92 %
+   Penelope:             0            0 bp    0.00 %
+   LINEs:            11138      4897490 bp    7.82 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex       3732      1574640 bp    2.51 %
+     R1/LOA/Jockey     885       625182 bp    1.00 %
+     R2/R4/NeSL         21        17417 bp    0.03 %
+     RTE/Bov-B         437       159561 bp    0.25 %
+     L1/CIN4          2273      1163935 bp    1.86 %
+   LTR elements:     10440      6098427 bp    9.73 %
+     BEL/Pao           903       359720 bp    0.57 %
+     Ty1/Copia          67        44582 bp    0.07 %
+     Gypsy/DIRS1      3978      2972797 bp    4.74 %
+       Retroviral     2949      1598861 bp    2.55 %
+
+DNA transposons      90802     21755423 bp   34.72 %
+   hobo-Activator    26876      6165317 bp    9.84 %
+   Tc1-IS630-Pogo     5685      1590955 bp    2.54 %
+   En-Spm                0            0 bp    0.00 %
+   MULE-MuDR          1143       154073 bp    0.25 %
+   PiggyBac            992       262088 bp    0.42 %
+   Tourist/Harbinger  6884      2199942 bp    3.51 %
+   Other (Mirage,      669       209759 bp    0.33 %
+    P-element, Transib)
+
+Rolling-circles       2916      1080141 bp    1.72 %
+
+Unclassified:         1516       773784 bp    1.23 %
+
+Total interspersed repeats:    34100288 bp   54.42 %
+
+
+Small RNA:            8525       678923 bp    1.08 %
+
+Satellites:           1984      1736331 bp    2.77 %
+Simple repeats:          0            0 bp    0.00 %
+Low complexity:          0            0 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be Danio rerio   
+RepeatMasker version 4.1.5 , default mode
+                                        
+run with rmblastn version 2.13.0+
+FamDB: CONS-Dfam_3.7
